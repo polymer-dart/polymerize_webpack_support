@@ -5,7 +5,7 @@
   "main": "index.js",
   "author": "Vittorio Ballestra <vittorio.ballestra@gmail.com>",
   "license": "MIT",
-  "devDependencies": {
+  "dependencies": {
     "babel-core": "^6.26.0",
     "copy-webpack-plugin": "^4.1.1",
     "loader-utils": "^1.1.0",
