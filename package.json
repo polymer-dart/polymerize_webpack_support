@@ -1,0 +1,8 @@
+{
+  "name": "polymerize_webpack_support",
+  "version": "1.0.0",
+  "description": "support modules for polymerize webpack build",
+  "main": "index.js",
+  "author": "Vittorio Ballestra <vittorio.ballestra@gmail.com>",
+  "license": "MIT"
+}
